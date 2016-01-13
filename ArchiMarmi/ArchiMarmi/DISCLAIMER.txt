@@ -1,0 +1,4 @@
+Les fichiers mis à disposition sont des EXAMPLES pour vous aider à comprendre comment ça communique. Ce code ne tournera pas, donc inutile de tester.
+Par contre, vous avez de vrais examples pour PDO, utilisation de classe. etc... N'oubliez pas les require en haut pour utiliser vos classes!
+
+Bon courage à tous!
